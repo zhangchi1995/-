@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * 简单工厂模式实现简易计算器
+ */
 public class Main {
     public static void main(String args[]){
         String operate;
